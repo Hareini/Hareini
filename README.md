@@ -119,7 +119,6 @@ PyTorch, Transformers, HTML/CSS/JS
 ## ⚡ Fun Facts
 - Converted my favorite quotes into **aesthetic stickers using AI**  
 - Love experimenting with **new tech & creative AI projects**  
-- Always learning something new every day!  
 
 ---
 
