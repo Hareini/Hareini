@@ -6,7 +6,7 @@ I’m a 2nd-year **AI & DS student** passionate about building **AI-powered appl
 
 ## 👀 Interests
 - 🤖 **Artificial Intelligence, Machine Learning, Deep Learning**  
-- ✨ **Generative AI and Prompt Engineering**  
+- ✨ **Generative AI & Prompt Engineering**  
 - 🌐 **Web Development and Interactive Applications**  
 
 ---
@@ -14,17 +14,17 @@ I’m a 2nd-year **AI & DS student** passionate about building **AI-powered appl
 ## 🌱 Currently Learning
 
 ### 1️⃣ AI & ML / Prompt Engineering
-- Fundamentals of AI, Machine Learning, Deep Learning, and Data Science  
+- Fundamentals of AI, ML, Deep Learning, and Data Science  
 - Generative AI basics & applications  
 - Prompt engineering for LLMs: building effective prompts, templates, patterns  
 - Working with JSON and structured AI inputs  
-- Fine-tuning LLMs and practical AI projects  
+- Fine-tuning LLMs and building practical AI projects  
 
 ### 2️⃣ Python & AI Projects
 - Python basics: loops, functions, lists, `yield`, infinite loops  
 - Libraries: **NumPy**, **Pandas** (theoretical + minimal implementation)  
 - Google Colab projects: converting text into **aesthetic sticker-style images**  
-- Image processing with **PIL** and **Stable Diffusion** for AI outputs  
+- Image processing with **PIL** and **Stable Diffusion**  
 
 ### 3️⃣ Web Development / Full Stack
 - HTML, CSS, JavaScript, Bootstrap  
@@ -42,7 +42,7 @@ I’m a 2nd-year **AI & DS student** passionate about building **AI-powered appl
 
 ---
 
-## 💻 Skills & Progress
+## 💻 Skills & Proficiency
 
 ### Programming Languages
 | Language | Proficiency |
@@ -59,10 +59,8 @@ Git, GitHub, JSON, Prompt Engineering, Zapier, Google Colab
 PyTorch, Transformers, HTML/CSS/JS  
 
 ### Competitive Coding
-- LeetCode: 250+ problems  
+- LeetCode: 250+ problems ![LeetCode Stats](https://drive.google.com/uc?export=view&id=1eBQ4R94CwrOMBTGP-PzwKH3lxo_MDJtN)  
 - CodeChef: 450+ problems  
-
-![LeetCode Stats](https://drive.google.com/uc?export=view&id=1eBQ4R94CwrOMBTGP-PzwKH3lxo_MDJtN)  
 
 ---
 
@@ -79,30 +77,35 @@ PyTorch, Transformers, HTML/CSS/JS
 - **Tech:** Python, PyTorch, Transformers  
 - **GitHub:** [Link](#)  
 - **Progress:** 80% ░░░░░░░░▓▓  
+- **Impact:** Converted 50+ quotes into aesthetic text styles for learning projects  
 
 ### 🟩 **Fairy_pic_generator**
 **Generative AI images using Python**  
 - **Tech:** Python, Stable Diffusion, PIL  
 - **GitHub:** [Link](#)  
 - **Progress:** 70% ░░░░░░░▓▓▓  
+- **Impact:** Created 100+ AI-generated fairy images for personal portfolio  
 
 ### 🟧 **Stock Prediction**
 **Predict AAPL stock prices using regression & ML models**  
 - **Tech:** Python, Pandas, NumPy, Scikit-learn  
 - **GitHub:** [Link](#)  
-- **Progress:** 75% ░░░░░░░▓▓  
+- **Progress:** 75% ░░░░░░░▓  
+- **Impact:** Built ML model to analyze stock trends for practice  
 
 ### 🟪 **ArtVista**
 **Interactive web gallery with 'Add to Cart' functionality**  
 - **Tech:** HTML, CSS, JavaScript  
 - **GitHub:** [Link](#)  
-- **Progress:** 85% ░░░░░░░░▓▓  
+- **Progress:** 85% ░░░░░░░░▓  
+- **Impact:** Created a dynamic web gallery with fully functional cart system  
 
 ### 🟫 **AI Exam / AI Exam Prep**
 **Full-stack AI web app showing complete development workflow**  
 - **Tech:** Full-stack development, Python, HTML/CSS/JS  
 - **GitHub:** [Link](#)  
-- **Progress:** 90% ░░░░░░░░▓▓  
+- **Progress:** 90% ░░░░░░░░▓  
+- **Impact:** Designed a complete AI exam preparation platform  
 
 ---
 
@@ -113,6 +116,10 @@ PyTorch, Transformers, HTML/CSS/JS
 
 ---
 
-## ⚡ Fun Fact
-I once converted my favorite quotes into **aesthetic stickers using AI**.  
+## ⚡ Fun Facts
+- Converted my favorite quotes into **aesthetic stickers using AI**  
+- Love experimenting with **new tech & creative AI projects**  
+- Always learning something new every day!  
+
+---
 
