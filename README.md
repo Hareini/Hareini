@@ -54,11 +54,40 @@ I'm a 2nd-year AI & DS student passionate about building AI-powered applications
 - Selected in 2nd round, Innovation Conclave, BITS Pilani  
 
 ## 📂 Projects
-1. **[Hareini-aesthetic-text-styler](https://github.com/Hareini/Hareini-aesthetic-text-styler)** – Creative text style converter using Google FLAN-T5 in Python (Transformers + PyTorch)  
-2. **[Fairy_pic_generator](https://github.com/Hareini/Fairy_pic_generator)** – Generative AI images using Python  
-3. **[stock_prediction](https://github.com/Hareini/stock_prediction)** – Predict AAPL stock prices using regression & classification ML models  
-4. **[artvista.](https://github.com/Hareini/artvista.)** – Interactive web gallery with 'Add to Cart' functionality using HTML/JS  
-5. **[aiexam / ai-exam-prep](https://github.com/Hareini/ai-exam-prep)** – Full-stack AI web app showing complete development workflow  
+
+### ▢ Hareini-aesthetic-text-styler
+**✨ Description:** Creative text style converter using Google FLAN-T5  
+**🛠 Tech Stack:** Python | PyTorch | Transformers | Google Colab  
+**🔗 GitHub:** [Link](https://github.com/Hareini/Hareini-aesthetic-text-styler)  
+
+---
+
+### ▢ Fairy_pic_generator
+**✨ Description:** Generative AI images  
+**🛠 Tech Stack:** Python | PIL | Stable Diffusion  
+**🔗 GitHub:** [Link](https://github.com/Hareini/Fairy_pic_generator)  
+
+---
+
+### ▢ stock_prediction
+**✨ Description:** Predict AAPL stock prices using ML models (Regression & Classification)  
+**🛠 Tech Stack:** Python | ML Libraries (Scikit-Learn, Pandas, NumPy)  
+**🔗 GitHub:** [Link](https://github.com/Hareini/stock_prediction)  
+
+---
+
+### ▢ artvista.
+**✨ Description:** Interactive web gallery with 'Add to Cart' functionality  
+**🛠 Tech Stack:** HTML | CSS | JavaScript  
+**🔗 GitHub:** [Link](https://github.com/Hareini/artvista.)  
+
+---
+
+### ▢ ai-exam-prep
+**✨ Description:** Full-stack AI web app showing complete development workflow  
+**🛠 Tech Stack:** TypeScript | Frontend + Backend  
+**🔗 GitHub:** [Link](https://github.com/Hareini/ai-exam-prep)  
+
 
 ## 📫 Contact Me
 - Email: hareinivenkat@gmail.com  
