@@ -59,7 +59,9 @@ I’m an **AI & Data Science student** passionate about developing
 </table>
 
 </div>
+
 ---
+
 # 🚀 **Featured Projects**
 <table align="center">
 <tr>
