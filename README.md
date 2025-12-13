@@ -144,7 +144,7 @@ I’m an **AI & Data Science student** passionate about developing
 # 📬 **Contact**
 - 📧 Email: **hareini.sankar@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/hareini-sankar-082a27348/**  
-- 🌐 Portfolio:   
+- 🌐 Portfolio:  **https://hareini.github.io/portfolio_/** 
 
 ---
 
