@@ -62,7 +62,7 @@ I’m an **AI & Data Science student** passionate about developing
 
 ---
 
-# 🚀 **Featured Projects**
+#  **Featured Projects**
 <table align="center">
 <tr>
 <td width="45%" style="border: 2px solid #FFD3E0; border-radius: 14px; padding: 15px;">
@@ -95,7 +95,7 @@ I’m an **AI & Data Science student** passionate about developing
 </p>
 </td>
 <td width="45%" style="border: 2px solid #FFF5D1; border-radius: 14px; padding: 15px;">
-<h3 align="center">🌐 ArtVista Web Portfolio</h3>
+<h3 align="center"> ArtVista Web Portfolio</h3>
 <p align="center">Minimal & aesthetic UI portfolio showcasing creative designs.</p>
 <p align="center">
 <a href="https://github.com/Hareini/artvista">
@@ -107,7 +107,7 @@ I’m an **AI & Data Science student** passionate about developing
 </table>
 
 ---
-# 📊 **Competitive Programming**
+#  **Competitive Programming**
 <table align="center">
 <tr>
 <th>Platform</th>
@@ -124,7 +124,12 @@ I’m an **AI & Data Science student** passionate about developing
 </table>
 
 ### **LeetCode Badges**
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="130px"/>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="130px" style="margin-right:10px"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="130px" style="margin-right:10px"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="130px"/>
+</p>
+
 
 ---
 # 🏆 **Hackathons & Participation**
