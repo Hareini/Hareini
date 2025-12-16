@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F2A7CF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Learner+%7C+Coder;Building+Efficient+AI+%26+ML+Systems;Writing+Clean+Code+%26+Designing+Minimal+UIs;Turning+Ideas+Into+Working+Intelligent+Apps" />
 </div>
 
-# 💼 **Professional Summary**
+#  **Professional Summary**
 
 I’m an **AI & Data Science student** passionate about developing  
 **AI-powered applications, scalable backend systems, and aesthetic interactive UIs.**
@@ -66,7 +66,7 @@ I’m an **AI & Data Science student** passionate about developing
 <table align="center">
 <tr>
 <td width="45%" style="border: 2px solid #FFD3E0; border-radius: 14px; padding: 15px;">
-<h3 align="center">🎨 Aesthetic Text Styler</h3>
+<h3 align="center"> Aesthetic Text Styler</h3>
 <p align="center">Python tool that transforms text into styled, aesthetic formats.</p>
 <p align="center">
 <a href="https://github.com/Hareini/Hareini-aesthetic-text-styler">
@@ -75,7 +75,7 @@ I’m an **AI & Data Science student** passionate about developing
 </p>
 </td>
 <td width="45%" style="border: 2px solid #C2E7FF; border-radius: 14px; padding: 15px;">
-<h3 align="center">🧠 AI Exam Prep Bot</h3>
+<h3 align="center">AI Exam Prep Bot</h3>
 <p align="center">AI bot that generates questions & explanations for exam prep.</p>
 <p align="center">
 <a href="https://github.com/Hareini/aiexam">
@@ -86,7 +86,7 @@ I’m an **AI & Data Science student** passionate about developing
 </tr>
 <tr>
 <td width="45%" style="border: 2px solid #E3F6FF; border-radius: 14px; padding: 15px;">
-<h3 align="center">🧚 Fairy Sticker Generator</h3>
+<h3 align="center"> Fairy Sticker Generator</h3>
 <p align="center">Stable Diffusion–based sticker generator with transparent output.</p>
 <p align="center">
 <a href="https://github.com/Hareini/Fairy_pic_generator">
@@ -132,13 +132,13 @@ I’m an **AI & Data Science student** passionate about developing
 
 
 ---
-# 🏆 **Hackathons & Participation**
+#  **Hackathons & Participation**
 - SIH Hackathon – **Participant**  
 - TNWISE Women Hackathon – **Finalist**  
 - BITS Pilani Innovator Conclave – **Participant**
 
 ---
-# 📈 **GitHub Contribution Graph**
+#  **GitHub Contribution Graph**
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hareini&theme=react-dark&hide_border=true&area=true&area_color=FFD3E0&line=F2A7CF&point=F2A7CF&color=FCE4EC" />
 
@@ -146,13 +146,13 @@ I’m an **AI & Data Science student** passionate about developing
 
 ---
 
-# 📬 **Contact**
-- 📧 Email: **hareini.sankar@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/hareini-sankar-082a27348/**  
-- 🌐 Portfolio:  **https://hareini.github.io/portfolio_/** 
+#  **Contact**
+-  Email: **hareini.sankar@gmail.com**  
+-  LinkedIn: **https://www.linkedin.com/in/hareini-sankar-082a27348/**  
+-  Portfolio:  **https://hareini.github.io/portfolio_/** 
 
 ---
 
-# 🌟 **Fun Fact**
+#  **Fun Fact**
 I love converting simple ideas into **beautiful, AI-powered, production-ready tools**.
 
